@@ -1,0 +1,24 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+div.intro{
+	background: #b3c2bf;
+	text-align: center;
+	color: #3b3a36;
+}
+div.header{
+	line-height: 5px;
+}
+div.main{
+	font-family: Calibri;
+	background: #3b3a36;
+	color: #F5FFFA;
+}
+h1{
+	text-align: center;
+}
+img.resize{
+	max-width: 50%;
+	max-height: 50%;
+}
